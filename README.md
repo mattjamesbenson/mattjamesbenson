@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mattjamesbenson! I am a Full Stack Web Developer.
+- 👀 I’m interested in PHP and Laravel more than anything, although I do enjoy working on mobile applications in my spare time.
+- 🌱 I’m currently learning React and React Native!
+- 📫 You can reach me by email at mattbenson04@googlemail.com.
